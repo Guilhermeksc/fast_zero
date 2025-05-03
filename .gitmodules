@@ -1,0 +1,3 @@
+[submodule "src/airflow-api"]
+	path = src/airflow-api
+	url = git@github.com:Guilhermeksc/airflow-api.git
